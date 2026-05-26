@@ -8,7 +8,7 @@
   "server": {
     "ip": "schoolsmpideal.aternos.me",
     "port": 42289,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
